@@ -8,3 +8,5 @@ package-lock.json
 # Error Logs
 yarn-error.log
 
+# Next Files
+.next
