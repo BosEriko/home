@@ -4,5 +4,15 @@
   "main": "index.js",
   "repository": "git@github.com:BosEriko/home.git",
   "author": "BosEriko <bos.eriko@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
 }
