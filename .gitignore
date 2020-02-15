@@ -1,1 +1,10 @@
+# Node Modules
 node_modules
+
+# Lock Files
+yarn.lock
+package-lock.json
+
+# Error Logs
+yarn-error.log
+
