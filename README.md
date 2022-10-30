@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+# Bos Eriko's Homepage
+Bos Eriko's personal homepage for personal use
 
 ## Getting Started
 
